@@ -1,7 +1,11 @@
 # Palette
 
 * ![1e1e1e](http://placehold.it/11/1e1e1e&text=%20) `#1e1e1e`
+* ![414141](http://placehold.it/11/414141&text=%20) `#414141`
+* ![fbfbfb](http://placehold.it/11/fbfbfb&text=%20) `#fbfbfb`
 * ![4b7fd4](http://placehold.it/11/4b7fd4&text=%20) `#4b7fd4`
+* ![3875d7](http://placehold.it/11/3875d7&text=%20) `#3875d7`
+* ![c1defc](http://placehold.it/11/c1defc&text=%20) `#c1defc`
 * ![4183c4](http://placehold.it/11/4183c4&text=%20) `#4183c4`
 * ![b4f382](http://placehold.it/11/b4f382&text=%20) `#b4f382`
 * ![fef181](http://placehold.it/11/fef181&text=%20) `#fef181`
