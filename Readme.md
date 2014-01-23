@@ -11,6 +11,9 @@
 * ![1dadeb](http://placehold.it/11/1dadeb&text=%20) `#1dadeb` "Twitter Blue"
 * ![3b5998](http://placehold.it/11/3b5998&text=%20) `#3b5998` "Facebook Blue"
 * ![4183c4](http://placehold.it/11/4183c4&text=%20) `#4183c4`
+* ![688472](http://placehold.it/11/688472&text=%20) `#688472` "Mono LCD Background"
+* ![586d5b](http://placehold.it/11/586d5b&text=%20) `#586d5b` "Mono LCD Shade"
+* ![1d2914](http://placehold.it/11/1d2914&text=%20) `#1d2914` "Mono LCD Foreground"
 * ![b4f382](http://placehold.it/11/b4f382&text=%20) `#b4f382`
 * ![fef181](http://placehold.it/11/fef181&text=%20) `#fef181`
 * ![fda500](http://placehold.it/11/fda500&text=%20) `#fda500`
